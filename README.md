@@ -1,5 +1,7 @@
 # Promotions Website P2 20220914
 
-## Reminders
+### Reminders
 
-### To Do List
+---
+
+# To Do List

@@ -8,7 +8,6 @@
 - [x] This is a checked box
 - [x] <del> This is a checked box </del>
 
-
 ---
 
 # To Do List
